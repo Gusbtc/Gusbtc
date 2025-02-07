@@ -24,7 +24,9 @@
 ###
 
 <div align="center">
+  <a href="https://tryhackme.com/p/Gusbtc" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Gusbtc.png" alt="Your Image Badge" />
+  </a>  
 </div>
 
 <div align="center">
