@@ -24,12 +24,6 @@
 ###
 
 <div align="center">
-  <a href="https://tryhackme.com/p/Gusbtc" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Gusbtc.png" />
-  </a>  
-</div>
-
-<div align="center">
   
 ![snake gif](https://github.com/Gusbtc/Gusbtc/blob/output/github-snake-dark.svg)
 </div>
